@@ -3,7 +3,6 @@ import User from '@/app/lib/modals/user'
 import connect from '@/app/lib/db'
 import { NextResponse } from 'next/server'
 import { Types } from 'mongoose'
-import { request } from 'http'
 
 const ObjectId = require('mongoose').Types.ObjectId
 
