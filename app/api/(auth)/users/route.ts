@@ -1,4 +1,3 @@
-//import { connect } from "@/lib/db"
 import User from '@/app/lib/modals/user'
 import connect from '@/app/lib/db'
 import { NextResponse } from 'next/server'
